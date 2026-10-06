@@ -70,7 +70,7 @@ Built as a star schema in Power Query, the raw Our World in Data export was clea
 
 ```
 Projeto de análise da Pandemia COVID-19.pbix     Power BI report (data model + 10 pages)
-vaccinations-by-manufacturer.csv                  vaccine manufacturer dataset
+vaccinations-by-manufacturer.csv                 vaccine manufacturer dataset
 assets/
   dashboard-pandemic-deaths.png
   dashboard-pandemic-cases.png
