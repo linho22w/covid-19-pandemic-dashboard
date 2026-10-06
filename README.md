@@ -69,7 +69,7 @@ Built as a star schema in Power Query, the raw Our World in Data export was clea
 ## 📂 Repository structure
 
 ```
-Projeto de análise da Pandemia COVID-19.pbix     Power BI report (data model + 10 pages)
+Projeto de análise da Pandemia COVID-19.pbix     Power BI report (data model + 9 dashboard pages)
 vaccinations-by-manufacturer.csv                 vaccine manufacturer dataset
 assets/
   dashboard-pandemic-deaths.png
